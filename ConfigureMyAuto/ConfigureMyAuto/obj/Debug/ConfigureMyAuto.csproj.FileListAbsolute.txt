@@ -1,0 +1,9 @@
+c:\users\toni\documents\visual studio 2013\Projects\ConfigureMyAuto\ConfigureMyAuto\bin\Debug\ConfigureMyAuto.exe.config
+c:\users\toni\documents\visual studio 2013\Projects\ConfigureMyAuto\ConfigureMyAuto\bin\Debug\ConfigureMyAuto.exe
+c:\users\toni\documents\visual studio 2013\Projects\ConfigureMyAuto\ConfigureMyAuto\bin\Debug\ConfigureMyAuto.pdb
+c:\users\toni\documents\visual studio 2013\Projects\ConfigureMyAuto\ConfigureMyAuto\obj\Debug\ConfigureMyAuto.csprojResolveAssemblyReference.cache
+c:\users\toni\documents\visual studio 2013\Projects\ConfigureMyAuto\ConfigureMyAuto\obj\Debug\ConfigureMyAuto.Form1.resources
+c:\users\toni\documents\visual studio 2013\Projects\ConfigureMyAuto\ConfigureMyAuto\obj\Debug\ConfigureMyAuto.Properties.Resources.resources
+c:\users\toni\documents\visual studio 2013\Projects\ConfigureMyAuto\ConfigureMyAuto\obj\Debug\ConfigureMyAuto.csproj.GenerateResource.Cache
+c:\users\toni\documents\visual studio 2013\Projects\ConfigureMyAuto\ConfigureMyAuto\obj\Debug\ConfigureMyAuto.exe
+c:\users\toni\documents\visual studio 2013\Projects\ConfigureMyAuto\ConfigureMyAuto\obj\Debug\ConfigureMyAuto.pdb
